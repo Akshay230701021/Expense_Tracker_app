@@ -57,7 +57,7 @@ The app supports the following expense categories:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense-tracker-flutter.git
+   git clone https://github.com/Akshay230701021/expense-tracker-flutter.git
    cd expense-tracker-flutter
    ```
 
